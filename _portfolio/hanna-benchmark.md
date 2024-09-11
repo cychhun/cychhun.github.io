@@ -5,6 +5,8 @@ collection: portfolio
 url: https://github.com/dig-team/hanna-benchmark-asg
 ---
 
-HANNA is a large annotated dataset of Human-ANnotated NArratives for ASG evaluation. It was introduced in the paper "*Of Human Criteria and Automatic Metrics*: A Benchmark of the Evaluation of Story Generation" accepted in COLING 2022.
+HANNA is a large annotated dataset of Human-ANnotated NArratives for ASG evaluation.
 
-The repository is accessible [here](https://github.com/dig-team/hanna-benchmark-asg).
+It was introduced in our paper "*Of Human Criteria and Automatic Metrics*: A Benchmark of the Evaluation of Story Generation", accepted in COLING 2022.
+
+The GitHub repository is accessible [here](https://github.com/dig-team/hanna-benchmark-asg).
