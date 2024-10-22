@@ -1,0 +1,12 @@
+---
+title: "Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-09-18-prompting-llm-for-story-evaluation
+excerpt: 'Storytelling is an integral part of human experience and plays a crucial role in social interactions. Thus, Automatic Story Evaluation (ASE) and Generation (ASG) could benefit society in multiple ways, but they are challenging tasks which require high-level human abilities such as creativity, reasoning, and deep understanding. Meanwhile, Large Language Models (LLMs) now achieve state-of-the-art performance on many NLP tasks. In this paper, we study whether LLMs can be used as substitutes for human annotators for ASE. We perform an extensive analysis of the correlations between LLM ratings, other automatic measures, and human annotations, and we explore the influence of prompting on the results and the explainability of LLM behaviour. Most notably, we find that LLMs outperform current automatic measures for system-level evaluation but still struggle at providing satisfactory explanations for their answers.'
+date: 2024-09-18
+venue: 'TACL'
+paperurl: 'https://doi.org/10.1162/tacl_a_00689'
+citation: "Cyril Chhun, Fabian M. Suchanek, Chloé Clavel; Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation. Transactions of the Association for Computational Linguistics 2024; 12 1122–1142. doi: https://doi.org/10.1162/tacl_a_00689"
+---
+Storytelling is an integral part of human experience and plays a crucial role in social interactions. Thus, Automatic Story Evaluation (ASE) and Generation (ASG) could benefit society in multiple ways, but they are challenging tasks which require high-level human abilities such as creativity, reasoning, and deep understanding. Meanwhile, Large Language Models (LLMs) now achieve state-of-the-art performance on many NLP tasks. In this paper, we study whether LLMs can be used as substitutes for human annotators for ASE. We perform an extensive analysis of the correlations between LLM ratings, other automatic measures, and human annotations, and we explore the influence of prompting on the results and the explainability of LLM behaviour. Most notably, we find that LLMs outperform current automatic measures for system-level evaluation but still struggle at providing satisfactory explanations for their answers.
