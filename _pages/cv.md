@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Télécom Paris, 2024 (expected)
-* M.S. in Computer Science and Engineering, École polytechnique, 2021
-* M.S. in Computer Science and Engineering, Télécom Paris, 2021
+* PhD in Computer Science, Télécom Paris, 2024
+* MSc in Computer Science and Engineering, École polytechnique, 2021
+* MSc in Computer Science and Engineering, Télécom Paris, 2021
 * Preparatory School MPSI-MP*, Lycée privé Sainte-Geneviève, 2014-2016
 
 Work experience
 ======
-* February 2021 - Today: Ph.D Candidate
+* February 2021 - November 2024: PhD in Computer Science
   * [Télécom Paris](https://www.telecom-paris.fr/en/home)
-  * Currently studying Automatic Story Generation and Evaluation.
+  * Thesis Title: "Meta-Evaluation Methodology and Benchmark for Automatic Story Generation"
   * Superviors: [Fabian M. Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/)
 
 * July-December 2020: Machine Learning Research Intern

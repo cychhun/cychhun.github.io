@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Cyril Chhun and this is my academic website. I am currently a PhD candidate at Télécom Paris, studying Automatic Story Generation and Evaluation. The title of my thesis is "Meta-Evaluation Methodology and Benchmark for Automatic Story Generation".
+Hello. My name is Cyril Chhun and I received my PhD in Computer Science at Télécom Paris on November 19th, 2024, under the supervision of [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/). The title of my thesis is "**Meta-Evaluation Methodology and Benchmark for Automatic Story Generation**" and the presentation slides are available at [this link](https://github.com/cychhun/phd-defense-slides).
 
 ## Abstract of my PhD Thesis
 
