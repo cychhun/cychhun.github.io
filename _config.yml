@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Cyril Chhun"
 title_separator          : "-"
 name                     : &name "Cyril Chhun"
-description              : &description "Ph.D Candidate at Télécom Paris"
+description              : &description "PhD in Computer Science"
 url                      : https://cychhun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cychhun/cychhun.github.io"
@@ -25,15 +25,15 @@ author:
   avatar           : "profile.jpg"
   name             : "Cyril Chhun"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D candidate at Télécom Paris"
-  location         : "Palaiseau, France"
+  bio              : "PhD in Computer Science"
+  location         : "Paris, France"
   employer         : "Télécom Paris"
   uri              : # URL
   email            : # URL
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "http://arxiv.org/a/chhun_c_1"
   googlescholar    : "https://scholar.google.com/citations?user=KQsE6U4AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
