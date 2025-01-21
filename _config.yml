@@ -28,7 +28,7 @@ author:
   location         : "Paris, France"
   employer         : "Télécom Paris"
   uri              : # URL
-  email            : "cyril.chhun@telecom-paris.fr" 
+  email            : # address
 
   # Academic websites
   arxiv            : "http://arxiv.org/a/chhun_c_1"
