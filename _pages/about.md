@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. My name is Cyril Chhun and I received my PhD in Computer Science at Télécom Paris on November 19th, 2024, under the supervision of [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/). The title of my thesis is "**Meta-Evaluation Methodology and Benchmark for Automatic Story Generation**" and the presentation slides are available at [this link](https://github.com/cychhun/phd-defense-slides).
+Hello. My name is Cyril Chhun and I received my PhD in Computer Science at Télécom Paris on November 19th, 2024, under the supervision of [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/). The title of my thesis is "**Meta-Evaluation Methodology and Benchmark for Automatic Story Generation**". The manuscript is available at [this link](https://theses.hal.science/tel-04975504), the manuscript's source files at [that link](https://github.com/cychhun/phd-thesis) and the presentation slides at [that link](https://github.com/cychhun/phd-defense-slides).
 
 ## Abstract of my PhD Thesis
 
